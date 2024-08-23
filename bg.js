@@ -80,4 +80,3 @@ function DistanceBetween(p1, p2) {
 
 create();
 particles();
-canvas.addEventListener("mousemove", MouseMove, false);
